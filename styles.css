@@ -1,0 +1,95 @@
+.blv{
+    padding-left: 100px;
+}
+.frm{
+    padding-left: 70px;
+}
+.there{
+    padding-left: 25px;
+}
+.banner-des{
+ text-align: right; 
+ padding-right: 170px;
+ padding-top: 150px;
+ margin: 0px;
+ padding-bottom: 300px;
+}
+.h1{
+    font-size: 50px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: orangered;
+    color: white;
+    border: 0px;
+    font-size: 15px;
+}
+header{
+    background-image: url(' ./banner1.png');
+    
+    
+}
+.main-des{
+    display: flex;
+}
+.main-descript{
+    padding-top: 300px;
+    padding-left: 120px;
+}
+.list{
+    list-style: initial;
+}
+.plan{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.plan-des{
+    display: flex;
+   padding-left: 200px;
+  
+}
+.tittle{
+    padding-left: 10px;
+     width: 50%;
+}
+.main-banner{
+    background-image: url(' ./watch.png');
+    background-repeat: no-repeat;
+    padding-left: 100px;
+margin-left: 100px; 
+
+   
+
+}
+
+.main-ban-des{
+    padding: 25px;
+}
+.extra{
+    text-align: center;
+    background-image: linear-gradient( orange,yellow);
+    margin: 100px;
+}
+.foot-des{
+    display: flex;
+    color: white;
+}
+footer{
+    background-color: black;
+    background-size: cover;
+}
+.foot-s{
+    padding-left: 600px;
+    padding-top: 40px;
+}
+.btn-f{
+    
+    padding:10px 20px ;
+    background-color: coral;
+    margin-top: 5px;
+}
+.f-des{
+    padding-left: 50px;
+}
